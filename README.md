@@ -7,6 +7,7 @@
 </a>
 
 <p>
+  <a href="https://jhon98ep.github.io"><img src="https://img.shields.io/badge/Portafolio-1A1916?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
   <a href="https://www.linkedin.com/in/jhon-jader-estrada-pizarro-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:estradajhon07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Cali%2C%20Colombia-Remoto%20%7C%20H%C3%ADbrido-1E3A8A?style=for-the-badge" alt="Ubicación" />
